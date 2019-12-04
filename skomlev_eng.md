@@ -1,11 +1,11 @@
 
 Serguei Komlev
 ======================
-skomlev.ruso@gmail.com\
-\+ 54 9 11 5139 7672\
-[Git]: /skomlev \
-[Linkedin]: /skomlev \
-Santiago del Estero 772 / Monserat / Buenos Aires
+- skomlev.ruso@gmail.com
+- \+ 54 9 11 5139 7672
+- [Git]\: /skomlev 
+- [Linkedin]\: /skomlev 
+- Santiago del Estero 772 / Buenos Aires / Argentina
 
 
 Experience
@@ -70,9 +70,9 @@ Aptitudes & Skills
 
 Education
 --------------------------
-2019 - 2021: [UADE]: University Technology in Software Development. (In progress) \
-2011 - 2014: [UTN-FRBA]: Information Systems Engineering (Incomplete). \
-2005 - 2010: Secondary: Computer technician, information systems. (Finalized) 
+* 2019 - 2021: [UADE]\: University Technology in Software Development. (In progress)
+* 2011 - 2014: [UTN-FRBA]\: Information Systems Engineering (Incomplete). 
+* 2005 - 2010: Secondary: Computer technician, information systems. (Finalized) 
 
 
 

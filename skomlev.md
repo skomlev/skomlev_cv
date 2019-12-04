@@ -1,11 +1,11 @@
 
 Serguei Komlev
 ======================
-skomlev.ruso@gmail.com\
-\+ 54 9 11 5139 7672\
-[Git]: /skomlev \
-[Linkedin]: /skomlev \
-Santiago del Estero 772 / Monserat / Buenos Aires
+- skomlev.ruso@gmail.com
+- \+ 54 9 11 5139 7672
+- [Git]\: skomlev
+- [Linkedin]\: /skomlev
+- Santiago del Estero 772 / Monserat / Buenos Aires
 
 
 Experiencia
@@ -62,7 +62,7 @@ Experiencia
 ---------------------
 
 ### [Softing SRL] - Enero 2011 - Noviembre 2014
-##### Programador WEB Genexus 8 & EV1 
+##### Programador WEB Genexus 8 & EV1
 
 ---------------------
 
