@@ -11,20 +11,29 @@ Serguei Komlev
 Experience
 ---------------------
 
-### [INTIVE] - July 2018 - Present
+### [mGrana] - Enero 2020 - Presente
+##### Software Engineer.
+* Developer SR:
+* Integration with financial  third party systems.
+* Deploy and config.
+* Stack: Python 2.7 / 3.X, Django, PostgreSQL, Redis, RabbitMq, Celery, Docker, AWS.
+
+---------------------
+
+### [INTIVE] - Julio 2018 - Enero 2020
 ##### Python Developer SR / Team Leader.
 * Team Leader: multidisciplinary team.
 * Developer SR:
 * Architecture based on microservices.
 * Integration with third party systems.
 * Deploy and config.
-* Stack: Python 3.7, Flask, PostgreSQL, MongoDB, Redis, RabbitMq, Celery, Docker, AWS, NodeJs ...
+* Stack: Python 3.7, Flask, PostgreSQL, MongoDB, Redis, RabbitMq, Celery, Docker, AWS, NodeJs.
 
 ---------------------
 
 ### [UTN-FRA] - Agosto 2018 - Julio 2019
 #####  Laboratorio de Software Libre UTN-FRA .
-* Application development with Python 3.x for beginners. .
+* Application development with Python 3.x for beginners.
 
 ---------------------
 
@@ -70,7 +79,8 @@ Aptitudes & Skills
 
 Education
 --------------------------
-* 2019 - 2021: [UADE]\: University Technology in Software Development. (In progress)
+* 2020 - 2020: [UADE DC]\: University Technology in Data Cience. (In progress)
+* 2019 - 2023: [UADE]\: University Technology in Software Development. (In progress)
 * 2011 - 2014: [UTN-FRBA]\: Information Systems Engineering (Incomplete). 
 * 2005 - 2010: Secondary: Computer technician, information systems. (Finalized) 
 
@@ -79,10 +89,12 @@ Education
 [Linkedin]: https://www.linkedin.com/in/skomlev/?locale=en_US
 [Git]: https://github.com/skomlev/
 [ANSES]: https://www.anses.gob.ar/
+[mGrana]: https://www.mgrana.com/
 [XIVIS]: https://xivis.com
 [INTIVE]: https://www.intive.com/es
 [UTN-FRA]: http://www.lslutnfra.com/
 [Leafnoise]: https://leafnoise.io/
 [Softing SRL]:http://www.e-softing.com.ar/
 [UADE]: https://www.uade.edu.ar/unidades-academicas/facultad-de-ingenieria-y-ciencias-exactas/tecnicatura-universitaria-en-desarrollo-de-software-sistemas/index
+[UADE DC]: https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/diplomatura-en-ciencia-de-datos/plan-de-estudios/
 [UTN-FRBA]: http://www.sistemas.frba.utn.edu.ar/index.php/academico/plan-k08

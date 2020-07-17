@@ -11,7 +11,16 @@ Serguei Komlev
 Experiencia
 ---------------------
 
-### [INTIVE] - Julio 2018 - Presente
+### [mGrana] - Enero 2020 - Presente
+##### Software Engineer.
+* Developer SR:
+* Integración con sistemas financieros de terceros.
+* Deploy and config.
+* Stack tecnológico: Python 2.7 / 3.x, Django, PostgreSQL, Redis, RabbitMq, Celery, Docker, AWS, entre otros.
+
+---------------------
+
+### [INTIVE] - Julio 2018 - Enero 2020
 ##### Python Developer SR / Team Leader.
 * Team Leader: equipo multidisciplinario.
 * Developer SR:
@@ -77,7 +86,8 @@ Aptitudes & Skills
 
 Educación
 --------------------------
-2019 - 2021: [UADE]: Tecnicatura Universitaria En Desarrollo De Software. (En curso) \
+2020 - 2020: [UADE Diplomatura]: Diplomatura en ciencia de datados. (En curso) \
+2019 - 2023: [UADE Tecnicatura]: Tecnicatura Universitaria En Desarrollo De Software. (En curso) \
 2011 - 2014: [UTN-FRBA]: Ingenieria en sistemas de información (Incompleto). \
 2005 - 2010: Secundario: Tecnico informatica, sistemas de información. (Finalizado) 
 
@@ -85,11 +95,13 @@ Educación
 
 [Linkedin]: https://ar.linkedin.com/in/skomlev/
 [Git]: https://github.com/skomlev/
+[mGrana]: https://www.mgrana.com/
 [ANSES]: https://www.anses.gob.ar/
 [XIVIS]: https://xivis.com
 [INTIVE]: https://www.intive.com/es
 [UTN-FRA]: http://www.lslutnfra.com/
 [Leafnoise]: https://leafnoise.io/
 [Softing SRL]:http://www.e-softing.com.ar/
-[UADE]: https://www.uade.edu.ar/unidades-academicas/facultad-de-ingenieria-y-ciencias-exactas/tecnicatura-universitaria-en-desarrollo-de-software-sistemas/index
+[UADE Tecnicatura]: https://www.uade.edu.ar/unidades-academicas/facultad-de-ingenieria-y-ciencias-exactas/tecnicatura-universitaria-en-desarrollo-de-software-sistemas/index
+[UADE Diplomatura]: https://www.uade.edu.ar/facultad-de-ingenieria-y-ciencias-exactas/diplomatura-en-ciencia-de-datos/plan-de-estudios/
 [UTN-FRBA]: http://www.sistemas.frba.utn.edu.ar/index.php/academico/plan-k08
